@@ -1,24 +1,42 @@
-# Welcome to my **personal Python learning journey**!
+# 💻 Learning By Building
 
-This repository is where I **document everything I learn in Python** — from fundamentals to OOP, libraries, practice programs, mini projects, and my learning roadmap.  
+This repository contains everything I learn while studying Python.
 
----
-
-## 📚 What’s Inside
-
-- **Fundamentals** – Variables, Data Types, Loops, Functions, Conditional Statements, etc.  
-- **OOP** – Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction  
-- **Libraries** – My experiments with `math`, `random`, `datetime`, etc.  
-- **Practice Programs** – Small exercises to reinforce what I’ve learned  
-- **Mini Projects** – Basic projects I create while learning  
-- **Notes & Roadmap** – Explanations and step-by-step learning plan  
+I use this repository to keep my notes, practice programs, modules, and small projects organized in one place. It also helps me track my progress and revise concepts whenever I need them.
 
 ---
 
-## 📝 Why This Repo Exists?
+## 📂 Repository Structure
 
-I want to **track my learning**, **practice consistently**, and keep all my Python experiments in one place.  
-
-Later, I can look back at my progress, see how much I’ve improved, and maybe even **showcase some projects in the future**.  
+- **01-Fundamentals** – Core Python concepts and notes
+- **02-Practice Programs** – Practice questions and exercises
+- **03-OOP** – Object-Oriented Programming
+- **04-Small Projects** – Small projects built to practice and apply Python concepts
+- **05-Modules (Basics)** – Notes and examples of built-in Python modules
+- **06-Learning Map** – Python learning roadmap
 
 ---
+
+## 📚 What I Have Covered
+
+- Variables & Data Types
+- Operators
+- Input / Output
+- Conditional Statements
+- Loops
+- Functions
+- Lists, Tuples, Sets & Dictionaries
+- String Handling
+- File Handling
+- Error Handling
+- Built-in Modules
+- Package Management
+
+---
+
+## 🎯 Purpose
+
+- Learn Python step by step
+- Practice programming regularly
+- Keep notes for revision
+- Apply concepts through practice programs and small projects
