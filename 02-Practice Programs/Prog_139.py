@@ -1,0 +1,1 @@
+# Create a program that prints the names of all installed Python packages using the appropriate pip command. Write the command in terminal.
